@@ -1,7 +1,7 @@
 # PHP Budget Tracker - AI Learning Documentation
 
 ## Student Information
-- **Name:** [Your Name]
+- **Name:** CHRISTINE MWORIA
 - **Date:** November 27, 2025
 - **Technology:** PHP
 - **Project:** Budget Tracker Web Application
@@ -201,7 +201,7 @@ The most valuable lesson: **Don't be afraid to ask detailed questions.** The mor
 ---
 
 **Total Learning Time:** 2 hours  
-**Confidence Level:** Ready to build more PHP projects! 🚀
+**Confidence Level:** Ready to build more PHP projects! 
 ```
 
 ---
